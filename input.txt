@@ -1,0 +1,29 @@
+main
+integer var|
+integer b|
+var = 13|
+b = 15|
+print{var}|
+print{b}|
+b=b+1|
+print{b}|
+either(2 > 0)
+print{"var"}|
+nor
+print{0}|
+eitherclose
+for(1 to 10)
+print{3}|
+forclose
+switch(3):
+is 1:
+print{"case 1 is invoked."}|
+isclose
+is 2:
+print{"case 2 is invoked."}|
+isclose
+default:
+print{"default is invoked."}|
+defaultclose
+switchclose
+mainclose

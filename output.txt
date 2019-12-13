@@ -1,0 +1,13 @@
+13.000000
+15.000000
+16.000000
+var
+0.000000
+If is executed.
+3.000000
+For loop is executed.
+case 1 is invoked.
+case 2 is invoked.
+default is invoked.
+Default block is executed.
+syntax error
